@@ -42,7 +42,7 @@
 
 面向外贸与销售团队的三分栏 AI Agent 平台：导入微信 / QQ / 钉钉聊天记录或截图，自动完成客户建档、深层画像与成交洞察。
 
-自研 Agent 运行时（24 个工具、多轮工具调用、SSE 流式输出），36+ 功能模块以注册器机制即插即用。
+自研 Agent 运行时（29 个工具、多轮工具调用、SSE 流式输出），36+ 功能模块以注册器机制即插即用。
 
 `Node 24 + Hono` `SQLite` `React 19` `Vite` `Tailwind 4` `Docker` `GitHub Actions CI`
 
